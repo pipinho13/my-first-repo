@@ -3,3 +3,4 @@ Learning Git is going well so far.
 the third line
 another line
 I added this line in the update-readme branch.
+It is sunnt outside
